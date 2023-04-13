@@ -1,0 +1,49 @@
+##############################################
+# Coloring Map For （BMS33M332）
+##############################################
+##############################################
+# Classes and Objects (KEYWORD1)
+##############################################
+BMS33M332	KEYWORD1
+##############################################
+# Methods and Functions (KEYWORD2)
+##############################################
+begin	KEYWORD2
+readRawProximity	KEYWORD2
+readRawAmbient	KEYWORD2
+readAmbient	KEYWORD2
+getPDTID	KEYWORD2
+setINT	KEYWORD2
+getINT	KEYWORD2
+getPositionStatus	KEYWORD2
+reset	KEYWORD2
+writeReg	KEYWORD2
+readReg	KEYWORD2
+readReg	KEYWORD2
+getLEDcurrent	KEYWORD2
+getMeasureIntervalTime	KEYWORD2
+getPSHighThreshold	KEYWORD2
+getPSLowThreshold	KEYWORD2
+getALSHighThreshold	KEYWORD2
+getALSLowThreshold	KEYWORD2
+setLEDcurrent	KEYWORD2
+setMeasureIntervalTime	KEYWORD2
+setPSHighThreshold	KEYWORD2
+setPSLowThreshold	KEYWORD2
+setALSHighThreshold	KEYWORD2
+setALSLowThreshold	KEYWORD2
+##############################################
+# Constants (LITERAL1)
+##############################################
+OK	LITERAL1
+ERROR	LITERAL1
+BMS33M332_IICADDR	LITERAL1
+CURRENT_3_125MA	LITERAL1
+CURRENT_6_25MA	LITERAL1
+CURRENT_12_5MA	LITERAL1
+CURRENT_25MA	LITERAL1
+CURRENT_50MA	LITERAL1
+CURRENT_100MA	LITERAL1
+CURRENT_150MA	LITERAL1
+ENABLE	LITERAL1
+DISABLE	LITERAL1
