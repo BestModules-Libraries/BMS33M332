@@ -1,13 +1,13 @@
 <div align=center>
-<img src="https://github.com/BestModules-Libraries/img/blob/main/BMH06203-41_V1.0.png" width="320" height="240"> 
+<img src="https://github.com/BestModules-Libraries/img/blob/main/BMS33M332_V1.0.png" width="320" height="240"> 
 </div> 
 
-BMH06203 
+BMS33M332 
 ===========================================================
 
-The Best Modules BMH06203 is an IR thermometry module, which uses the I2C communication method. This document provides the description of the BMH06203 Arduino Lib functions and how to install the Arduino Lib. The example demonstrates the function of obtaining the object surface temperature value.
+The Best Modules BMS33M332 is a proximity sensing and ambient light detection module, which uses the I2C communication method. This document provides the description of the BMS33M332 Arduino Lib functions and how to install the Arduino Lib. The example demonstrates the function of reading A/D values for proximity sensing and ambient light.
 
-This library can be installed via the Arduino Library manager. Search for **BMH06203 **. 
+This library can be installed via the Arduino Library manager. Search for **BMS33M332**. 
 
 Repository Contents
 -------------------
@@ -20,7 +20,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BMH06203 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bmh06203.html#tab-product2 )** - Arduino Library Description.
+* **[BMS33M332 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bms33m332.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
